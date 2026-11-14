@@ -1,5 +1,10 @@
 # 🌿 Branch Pet — Gentle Desktop Companion
 
+## Preview
+
+![The pet Preview](preview.png)
+
+
 A tiny swaying branch that floats on your desktop.
 Made with HTML, CSS, and Electron. Artwork by me in Krita.
 
