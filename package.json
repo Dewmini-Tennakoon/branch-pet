@@ -1,0 +1,12 @@
+{
+  "name": "branch-pet",
+  "version": "1.0.0",
+  "description": "A gentle swaying branch companion",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^33.0.0"
+  }
+}
