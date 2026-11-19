@@ -1,7 +1,7 @@
 # 🌿 Branch Pet — Gentle Desktop Companion
 
 ## Preview
-
+!['gif'](branch.gif)
 ![The pet Preview](preview.png)
 
 
